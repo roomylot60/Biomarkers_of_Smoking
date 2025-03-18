@@ -1,0 +1,6 @@
+{
+    "max_depth": 10,
+    "learning_rate": 0.06940535974848314,
+    "n_estimators": 690,
+    "tree_method": "hist"
+}
